@@ -37,6 +37,7 @@ const Icon = ({ id, size, strokeWidth = 1, ...delegated }) => {
 const Wrapper = styled.div`
   width: var(--size);
   height: var(--size);
+  
 
   /*
     OMG I'm doing that thing I've warned against doing!

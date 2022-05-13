@@ -54,8 +54,7 @@ const Wrapper = styled.div`
     background-color: ${COLORS.transparentGray15};
     box-shadow: inset 0px 2px 4px ${COLORS.transparentGray35};    
     border-radius: var(--radius);
-    padding: var(--padding);
-    
+    padding: var(--padding);    
 `;
 
 const BarWrapper = styled.div`    
